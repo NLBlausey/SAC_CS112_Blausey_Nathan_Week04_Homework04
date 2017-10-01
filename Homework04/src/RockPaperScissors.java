@@ -38,3 +38,4 @@ public class RockPaperScissors
 	
 	}
 }
+//Please put the game logic under (cp == ) blocks
